@@ -1,7 +1,7 @@
 version: '2'
 services:
   snake:
-    image: 'm4hn4z/new'
+    image: 'm4hn4z/node'
     environment:
       - "PORT:3000"
     ports:
